@@ -1,0 +1,18 @@
+# Fotos y documentos generados (son tus apuntes: no se suben)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+*.docx
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secretos
+.env
